@@ -1,0 +1,14 @@
+{
+  "name": "ponga",
+  "version": "0.1.0",
+  "description": "Send email from any script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alexwheeler",
+  "license": "ISC",
+  "dependencies": {
+    "request-promise": "^4.0"
+  }
+}
